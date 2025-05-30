@@ -1,0 +1,15 @@
+C:\Users\vmontagna\Desktop\esercizi stage\PiccolaFabbricaImmaginaria\PiccolaFabbricaImmaginaria\bin\Debug\net8.0\PiccolaFabbricaImmaginaria.exe
+C:\Users\vmontagna\Desktop\esercizi stage\PiccolaFabbricaImmaginaria\PiccolaFabbricaImmaginaria\bin\Debug\net8.0\PiccolaFabbricaImmaginaria.deps.json
+C:\Users\vmontagna\Desktop\esercizi stage\PiccolaFabbricaImmaginaria\PiccolaFabbricaImmaginaria\bin\Debug\net8.0\PiccolaFabbricaImmaginaria.runtimeconfig.json
+C:\Users\vmontagna\Desktop\esercizi stage\PiccolaFabbricaImmaginaria\PiccolaFabbricaImmaginaria\bin\Debug\net8.0\PiccolaFabbricaImmaginaria.dll
+C:\Users\vmontagna\Desktop\esercizi stage\PiccolaFabbricaImmaginaria\PiccolaFabbricaImmaginaria\bin\Debug\net8.0\PiccolaFabbricaImmaginaria.pdb
+C:\Users\vmontagna\Desktop\esercizi stage\PiccolaFabbricaImmaginaria\PiccolaFabbricaImmaginaria\obj\Debug\net8.0\PiccolaFabbricaImmaginaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmontagna\Desktop\esercizi stage\PiccolaFabbricaImmaginaria\PiccolaFabbricaImmaginaria\obj\Debug\net8.0\PiccolaFabbricaImmaginaria.AssemblyInfoInputs.cache
+C:\Users\vmontagna\Desktop\esercizi stage\PiccolaFabbricaImmaginaria\PiccolaFabbricaImmaginaria\obj\Debug\net8.0\PiccolaFabbricaImmaginaria.AssemblyInfo.cs
+C:\Users\vmontagna\Desktop\esercizi stage\PiccolaFabbricaImmaginaria\PiccolaFabbricaImmaginaria\obj\Debug\net8.0\PiccolaFabbricaImmaginaria.csproj.CoreCompileInputs.cache
+C:\Users\vmontagna\Desktop\esercizi stage\PiccolaFabbricaImmaginaria\PiccolaFabbricaImmaginaria\obj\Debug\net8.0\PiccolaFabbricaImmaginaria.sourcelink.json
+C:\Users\vmontagna\Desktop\esercizi stage\PiccolaFabbricaImmaginaria\PiccolaFabbricaImmaginaria\obj\Debug\net8.0\PiccolaFabbricaImmaginaria.dll
+C:\Users\vmontagna\Desktop\esercizi stage\PiccolaFabbricaImmaginaria\PiccolaFabbricaImmaginaria\obj\Debug\net8.0\refint\PiccolaFabbricaImmaginaria.dll
+C:\Users\vmontagna\Desktop\esercizi stage\PiccolaFabbricaImmaginaria\PiccolaFabbricaImmaginaria\obj\Debug\net8.0\PiccolaFabbricaImmaginaria.pdb
+C:\Users\vmontagna\Desktop\esercizi stage\PiccolaFabbricaImmaginaria\PiccolaFabbricaImmaginaria\obj\Debug\net8.0\PiccolaFabbricaImmaginaria.genruntimeconfig.cache
+C:\Users\vmontagna\Desktop\esercizi stage\PiccolaFabbricaImmaginaria\PiccolaFabbricaImmaginaria\obj\Debug\net8.0\ref\PiccolaFabbricaImmaginaria.dll
